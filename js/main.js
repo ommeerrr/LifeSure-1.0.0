@@ -53,7 +53,7 @@
         dots: false,
         loop: true,
         margin: 25,
-        nav : true,
+        nav : false,
         navText : [
             '<i class="fa fa-arrow-right"></i>',
             '<i class="fa fa-arrow-left"></i>'
